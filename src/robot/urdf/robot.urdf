@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<robot name="nkch">
+  <link name="chassis_link"></link>
+  <link name="left_wheel_link"></link>
+  <link name="right_wheel_link"></link>
+
+  <joint name="left_wheel_link" type="continous"></joint>
+  <joint name="right_wheel_link" type="continous"></joint>
+</robot>
